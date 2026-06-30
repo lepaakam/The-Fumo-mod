@@ -17,7 +17,8 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Random Bullshit Go!",
-		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted",
+		"uniques": ["Comment [Random ass event will occur during a game time.]",
+			        "[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted",
 			        "[-30]% Production when constructing [{Military} {Land}] units [in all cities]",
 		            "[-100]% Gold cost of upgrading <hidden from users>"],
 		"cities": ["Hōreisou the dark district","Stupid Gambler Den","Fumo City"]
