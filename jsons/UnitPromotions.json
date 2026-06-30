@@ -2,7 +2,7 @@
 	{
 		"name": "Man-Eating Youkai",
 		"uniques": ["Heals [200] damage if it kills a unit", "Heal this unit by [180] HP <upon being promoted>",
-		            "[This Unit] gains [50] XP <every [5] turns>"]
+		            "[This Unit] gains [30] XP <every [3] turns> <upon turn end>"]
 	},
 	{
 		"name": "Instinct Restraint",
