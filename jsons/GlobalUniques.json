@@ -14,15 +14,15 @@
 
 
 
-		"Free [Ainz Ooal Gown] appears <Gain a free [Ainz War]> <for [Mercenary Empire] Civilizations> <upon turn end> <after turn number [80]> <with [1]% chance> <if [Ainz Ooal Gown] is enabled>",
-        "Free [CZ2128 Delta] appears <Gain a free [CZ War] [in capital]> <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [80]> <after turn number [50]> <with [3]% chance> <if [Ainz Ooal Gown] is enabled>",
-		"Free [Neia Baraja] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [50]> <after turn number [10]> <with [3]% chance> <if [Ainz Ooal Gown] is enabled>",
-        "Free [Oathbound (Free)] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [40]> <after turn number [1]> <with [4]% chance> <if [modFilter] is enabled>",
-	    "Free [Sun Obelisk] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [60]> <after turn number [1]> <with [1]% chance> <if [modFilter] is enabled>",
-	    "Free [Achilles] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [80]> <after turn number [1]> <with [3]% chance> <if [modFilter] is enabled>",
-	    "Free [Orion] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [80]> <after turn number [15]> <with [3]% chance> <if [modFilter] is enabled>",
-	    "Free [Agathinus] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [80]> <after turn number [30]> <with [3]% chance> <if [modFilter] is enabled>",
-	    "Free [Daedalus] appears <for [Mercenary Empire] Civilizations> <upon turn end> <before turn number [80]> <after turn number [40]> <with [3]% chance> <if [modFilter] is enabled>",
+		"Free [Ainz Ooal Gown] appears <Gain a free [Ainz War]> <for [Kurai Sekai] Civilizations> <upon turn end> <after turn number [80]> <with [1]% chance> <if [Ainz Ooal Gown] is enabled>",
+        "Free [CZ2128 Delta] appears <Gain a free [CZ War] [in capital]> <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [50]> <with [3]% chance> <if [Ainz Ooal Gown] is enabled>",
+		"Free [Neia Baraja] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [50]> <after turn number [10]> <with [3]% chance> <if [Ainz Ooal Gown] is enabled>",
+        "Free [Oathbound (Free)] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [40]> <after turn number [1]> <with [4]% chance> <if [modFilter] is enabled>",
+	    "Free [Sun Obelisk] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [60]> <after turn number [1]> <with [1]% chance> <if [modFilter] is enabled>",
+	    "Free [Achilles] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [1]> <with [3]% chance> <if [modFilter] is enabled>",
+	    "Free [Orion] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [15]> <with [3]% chance> <if [modFilter] is enabled>",
+	    "Free [Agathinus] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [30]> <with [3]% chance> <if [modFilter] is enabled>",
+	    "Free [Daedalus] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [40]> <with [3]% chance> <if [modFilter] is enabled>",
 	]
 	
 }
