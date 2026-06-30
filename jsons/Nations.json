@@ -17,7 +17,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Random Bullshit Go!",
-		"uniques": ["Comment [Random ass event will occur during a game time.]",
+		"uniques": ["Comment [Random ass units will appears during the game time.]",
 			        "[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted",
 			        "[-30]% Production when constructing [{Military} {Land}] units [in all cities]",
 		            "[-100]% Gold cost of upgrading <hidden from users>","[1] Movement <upon entering a new era> <hidden from users>"],
