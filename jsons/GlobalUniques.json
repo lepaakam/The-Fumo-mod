@@ -19,8 +19,8 @@
 		"Free [Neia Baraja] appears <before turn number [50]> <after turn number [10]> <with [3]% chance> <if [Ainz Ooal Gown] is enabled>",
         "Free [Oathbound (Free)] appears <before turn number [40]> <after turn number [1]> <with [4]% chance> <if [modFilter] is enabled>",
 	    "Free [Sun Obelisk] appears <before turn number [60]> <after turn number [1]> <with [1]% chance> <if [modFilter] is enabled>",
-	    "Free [Achilles] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
-	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	    "Free [Achilles] appears <before turn number [80]> <after turn number [1]> <with [3]% chance> <if [modFilter] is enabled>",
+	    "Free [Orion] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
 	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
 	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
 	]
