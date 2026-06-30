@@ -20,6 +20,7 @@
 		"uniques": ["Comment [Random ass units will appears during the game time.]",
 			        "[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted",
 			        "[-30]% Production when constructing [{Military} {Land}] units [in all cities]",
+			        "[-100]% maintenance costs",
 		            "[-100]% Gold cost of upgrading <hidden from users>","[1] Movement <upon entering a new era> <hidden from users>"],
 		"cities": ["Hōreisou the dark district","Stupid Gambler Den","Fumo City"]
 	},
