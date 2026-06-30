@@ -1,1 +1,20 @@
+{
+	"name": "Global uniques",
+	"uniques": [		
+	    "Triggers a [Based and Christpilled] event <after founding a religion> <upon turn end> <every [999] turns> <for [Human player] Civilizations>",
+		"Triggers a [National Birthday] event <for [Major] Civilizations> <upon turn end> <with [3]% chance>",
+		"Triggers a [Help from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <when at war> <with [10]% chance>",
+		"Triggers a [Gift from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [8]% chance>",
+		"Triggers a [Special day!] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [9]% chance>",
+		"Triggers a [You're pregnat???] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [8]% chance>",
+		"Triggers a [Conquer them!] event <for [Mercenary Empire] Civilizations> <upon declaring war on [All] Civilizations>",
+        "Triggers a [Vague posting] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [8]% chance>",
+        "Triggers a [Idk what is this] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [1]% chance>",
+        "Triggers a [The Guest Star in starry night] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [4]% chance>",
 
+
+
+		"[2] Movement <for units with [Mercenaries]>",
+
+    ]
+}
