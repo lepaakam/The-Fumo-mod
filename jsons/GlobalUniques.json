@@ -14,7 +14,15 @@
 
 
 
-		"[2] Movement <for units with [Mercenaries]>",
-
-    ]
+		"Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+        "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+		"Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+        "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	    "Free [unit] appears <before turn number [nonNegativeAmount]> <after turn number [nonNegativeAmount]> <with [nonNegativeAmount]% chance> <if [modFilter] is enabled>",
+	]
+	
 }
