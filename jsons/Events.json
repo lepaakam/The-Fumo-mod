@@ -1,1 +1,147 @@
+[
+  {
+		"name": "Based and Christpilled",
+		"text": "Me, a pantied black tradcath.",
+		"choices": [
+			{ "text": "It's Based and Christpilled!",
+			  "uniques": [	"Gain [23]-[40] [Faith]",
+							"[Religious] units gain the [Based and Christpilled] promotion"]}
+      
+      			{ "text": "It's not Based and Christpilled!",
+			  "uniques": [	"[-4 Happiness] [in all cities] <for [8] turns>",
+                      		"Gain [50]-[100] [Culture]" ] }
+      
+     			{ "text": "Bro",
+			  "uniques": [ 	"Comment [Grants a burst of [Science]]",
+                            "[3] population in a random city",
+							"Gain [20] [Science] <during the [Ancient era]> <hidden from users>",
+							"Gain [60] [Science] <during the [Classical era]> <hidden from users>",
+			 				"Gain [100] [Science] <during the [Medieval era]> <hidden from users>"] } ]
+  },
 
+  {
+		    "name": "National Birthday",
+		    "text": "Today is the empire birthday, moment when our home and birthplace born. We hope it will be there for eternity.",
+		    "choices": [
+			    {"text": "Happy birthday yall.",
+			     "uniques": ["Gain [25]-[40] [Production]",
+							 "[+5 Happiness] [in all cities] <for [5] turns>"] } ]
+	
+	},
+
+  {
+		"name": "Help from the guild",
+		"text": "'You dude, need help?.'",
+		"choices": [
+				{ "text": "Nah, we fine",
+				"uniques": [ "Comment [Nothing happens.]"]},
+      
+     			{ "text": "Little help is not bad actually",
+			  "uniques": [ "[2] free [Landsknecht] units appear",
+                      		"Comment [Lose 900 [Gold]]",
+							"Gain [-900] [Gold] <hidden from users>" ]},
+      
+     			{ "text": "Yes please, i'm shaking my boots right now.",
+			  "uniques": [  "[4] free [Khazaq] units appear",
+				     		"[2] free [Commander] units appear",
+				  			"Gain [-1400] [Gold] <hidden from users>",
+                            "[1] free [Great General] units appear",
+                        	"Comment [Lose 1400 [Gold]]"] }]
+  },
+
+	 {
+		"name": "Gift from the guild",
+		"text": "The guild give us some gift, they ask what kind of gift i want.",
+		"choices": [
+     			{ "text": "I need a strong leader.",
+			  "uniques": [ "[1] free [Great General] units appear",
+						   "[1] free [Commander] units appear" ]},
+      
+     			{ "text": "I want money",
+			  "uniques": ["Gain [50] [Gold]",
+                  		  "Gain [15]-[25] [Food] <hidden from users>"] }]
+  },
+
+	{
+		"name": "The Guest Star in starry night",
+		"text": "A star has appeared in the heavens. It glows with a breathtaking brilliance, captivating the entirety of the nation. The event is surely one of great significance.",
+		"choices": [
+			{ "text": "Such beauty!",
+			  "uniques": [ "[1] free [Great Artist] units appear"]},
+      
+     			{ "text": "A astronomical miracle!",
+			  "uniques": ["[1] free [Great Scientist] units appear"] }]
+  },
+
+	{
+		"name": "You're pregnat???",
+		"text": "i'm sorry, Whaaaat?(these who know ahh shit).",
+		"choices": [
+			{ "text": "Erm what the sigma.",
+			  "uniques": [ "[1] population in a random city",
+			  		"[+50]% [Faith] [in all cities] <for [8] turns>"]},
+      
+     			{ "text": "There must be a reasonable explanation.",
+			  "uniques": [ "[+60]% [Culture] [in all cities] <for [8] turns>",
+			  	       "[+60]% [Science] [in all cities] <for [8] turns>" ]}]
+  },
+
+
+
+	{
+		"name": "Special day!",
+		"text": "Your kingdom right now are celebrating a special day.",
+		"choices": [
+			{ "text": "Splendid",
+			  "uniques": [ "Empire enters golden age",
+			                "Gain [20] [Gold]"] }]
+  },
+
+
+
+	 {
+		    "name": "Vague posting",
+		    "text": "Dude you are not gonna believe this",
+		    "choices": [
+			    {"text": "Believe what?",
+			     "uniques": ["[+800 Food] [in all cities] <for [2] turns>"] } ]
+	
+	},
+
+
+
+	 {
+		    "name": "Conquer them!",
+		    "text": "The guilds give you a mercenaries to help you win the war.",
+		    "choices": [
+			    {"text": "Thank you.",
+			     "uniques": ["[1] free [Landsknecht] units appear",
+				     		"[1] free [Commander] units appear",
+				  			"All newly-trained [All] units [in all cities] receive the [Logistics] promotion <for [20] turns>",
+			  				 "[1] free [Janissary] units appear"] } ]
+	
+	},
+
+	{
+		    "name": "Idk what is this",
+		    "text": "Fuck you!.",
+		    "choices": [
+
+				{ "text": "Dude, im pregnant",
+				"uniques": [ "Comment [Bruh]"]},
+
+			    { "text": "What?",
+			  "uniques": ["Free [Isagoras] appears",
+				  		 "Free [Agathinus] appears",
+			             "Free [Daedalus] appears"]},
+			    
+			    {"text": "What's wrong with you",
+			     "uniques": ["[+10 Production] [in all cities] <for [15] turns>",
+			     		 ] } ]
+	
+	},
+
+
+
+
+    ]
