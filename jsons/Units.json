@@ -6,7 +6,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new city <once>", "Can build [Land] improvements on tiles", "Ignores terrain cost", "Unbuildable", "Cannot be purchased"],
+		"uniques": ["Founds a new city <once>", "Can build [Land] improvements on tiles", "Ignores terrain cost"],
 	},
 	{
 		"name": "Rumia",
