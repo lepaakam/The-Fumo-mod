@@ -19,10 +19,10 @@
         "Free [Lava Bomb] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [100]> <after turn number [20]> <with [3]% chance> <if [modFilter] is enabled>",
         "Free [Deep One] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [40]> <after turn number [1]> <with [4]% chance> <if [modFilter] is enabled>",
         "Free [Lich] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [20]> <with [3]% chance> <if [modFilter] is enabled>",
-        "Free [Daedalus] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [40]> <with [3]% chance> <if [modFilter] is enabled>",
-        "Free [Daedalus] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [40]> <with [3]% chance> <if [modFilter] is enabled>",
-        "Free [Daedalus] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [40]> <with [3]% chance> <if [modFilter] is enabled>",
-		"Free [Daedalus] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [80]> <after turn number [40]> <with [3]% chance> <if [modFilter] is enabled>",
+        "Free [Archer Maiden] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [30]> <after turn number [1]> <with [6]% chance> <if [modFilter] is enabled>",
+        "Free [Aurelionite Obelisk] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [100]> <after turn number [10]> <with [2]% chance> <if [modFilter] is enabled>",
+        "Free [Clockwerk Automata (Aegis)] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [100]> <after turn number [10]> <with [3]% chance> <if [modFilter] is enabled>",
+		"Free [Wisp] appears <for [Kurai Sekai] Civilizations> <upon turn end> <before turn number [50]> <after turn number [0]> <with [5]% chance> <if [modFilter] is enabled>",
 	]
 	
 }
