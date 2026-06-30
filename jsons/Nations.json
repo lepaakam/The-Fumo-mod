@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Kurai Sekai",
-		"leaderName": "Rumia",
+		"leaderName": "Rumia and the Gambling Devil",
 		"adjective": ["Youkai"],
 		"preferredVictoryType": "Domination",
 
@@ -16,8 +16,10 @@
 		"tradeRequest": "Sonanoka?",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
-		"uniqueName": "Man-Eating Youkai Race",
-		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted", "[-10]% Production when constructing [{Military} {Land}] units [in all cities]", "[20]% XP gained from combat <for [Land] units>", "[+1 Science] [in capital]", "Earn [20]% of the damage done to [Land] units as [Gold]"],
-		"cities": ["Hōreisou"]
+		"uniqueName": "Random Bullshit Go!",
+		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted",
+			        "[-30]% Production when constructing [{Military} {Land}] units [in all cities]",
+		            "[relativeAmount]% Gold cost of upgrading <hidden from users>"],
+		"cities": ["Hōreisou the dark district","Stupid Gambler Den","Fumo City"]
 	},
 ]
