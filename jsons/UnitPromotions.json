@@ -35,13 +35,13 @@
 	{
 		"name": "Maturing",
 		"prerequisites": ["Levitation", "Savoring"],
-		"uniques": ["[+30]% Strength", "[-1] Sight", "[+10]% XP gained from combat"],
+		"uniques": ["[+60]% Strength", "[2] Sight", "[+10]% XP gained from combat"],
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
 		"name": "Precise Strike",
 		"prerequisites": ["Maturing"],
-		"uniques": ["[+20]% Strength"]
+		"uniques": ["[+80]% Strength"]
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
@@ -75,7 +75,7 @@
 	{
 		"name": "Moonlight Ray",
 		"prerequisites": ["Spell Cards I"],
-		"uniques": ["[+1] Range", "[-50]% Strength <when attacking>"],
+		"uniques": ["[+10] Range", "[50]% Strength <when attacking>"],
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
@@ -87,7 +87,7 @@
 	{
 		"name": "Demarcation",
 		"prerequisites": ["Spell Cards I"],
-		"uniques": ["[+10]% Strength", "[+20]% Strength <after [10] turns>", "[+30]% Strength <after [20] turns>"]
+		"uniques": ["[+40]% Strength", "[+80]% Strength <after [10] turns>", "[+100]% Strength <after [20] turns>"]
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
@@ -99,7 +99,7 @@
 	{
 		"name": "Last Word",
 		"prerequisites": ["Spell Cards II"],
-		"uniques": ["[+50]% Strength"],
+		"uniques": ["[+100]% Strength"],
 		"unitTypes": ["Dark Youkai"],
 	},
 ]
